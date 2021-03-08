@@ -3,6 +3,18 @@ body {
     font-family: sans-serif, Arial, Helvetica;
 }
 
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: lightgray;
+}
+
+.assignment img {
+    width: 300px;
+    padding: 10px;
+}
+
 h1 {
     color: dimgrey;
     text-align: center;
